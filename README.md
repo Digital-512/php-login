@@ -1,5 +1,4 @@
-![](https://cdn.bailey.pt/phplogin-banner.png)
-
+# php-login
 php-login is a simple and secure login and signup ready made system that will speed up your development. The code is very simple to read and modify, and is built with PHP, MySQL and jQuery (AJAX) using Bootstrap 3 for the form design as well as PHP-Mailer for user account verification and confirmation.
 
 <img src="https://raw.githubusercontent.com/fethica/PHP-Login/master/login/images/screenshot.png" alt="Login Page Screenshot" />
